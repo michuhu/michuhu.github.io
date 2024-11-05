@@ -1,6 +1,6 @@
 layout: page
-title: "about"
-permalink: /about
+title: "zupa"
+permalink: /zupa
 
 
 to jest kątent tra lala
